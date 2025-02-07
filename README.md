@@ -84,3 +84,8 @@ Performance Optimization:
 
 Reduced load times by 30% using summarized tables for frequently accessed metrics.
 
+![image](https://github.com/user-attachments/assets/b1a7e832-4242-4842-a377-6da964f46069)
+![image](https://github.com/user-attachments/assets/34993985-43fc-4eb0-9158-c2c81bdd7968)
+
+
+
